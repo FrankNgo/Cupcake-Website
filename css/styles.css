@@ -1,0 +1,10 @@
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+body{
+  background-color: teal;
+  font-weight: bold;
+  font-size: 20px;
+}
