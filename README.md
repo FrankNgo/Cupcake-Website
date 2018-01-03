@@ -2,7 +2,7 @@
 
 #### _A Cupcake HTML website with a CSS styles file, 01/03/2018_
 
-#### By _**{List of contributors}**_
+#### By _**{Frank Ngo and Alex Ficklin}**_
 
 ## Description
 
